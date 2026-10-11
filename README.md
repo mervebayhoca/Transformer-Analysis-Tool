@@ -20,7 +20,7 @@ Düzce Üniversitesi'nde aldığım **Elektrik Makinaları I** dersi kapsamında
 *   **Laboratuvar Modu:** Açık ve Kısa devre test sonuçlarını (Volt, Amper, Watt) girince eşdeğer devre parametrelerini kendi hesaplıyor.
 *   **Grafikler:** Yük değişimine göre Verim ve Gerilim Düşümü grafiklerini çiziyor.
 *   **Simülasyon:** Güç faktörünü slider ile değiştirip grafiğin nasıl etkilendiğini anlık görebiliyorsunuz.
-**Not:** Henüz öğrenme aşamasındayım. Derste yeni konular işledikçe projeyi geliştirmeye devam edeceğim.
+> **Not:** Henüz öğrenme aşamasındayım. Derste yeni konular işledikçe projeyi geliştirmeye devam edeceğim.
 
 ---
 **Developer:** [Merve Bayhoca] 
